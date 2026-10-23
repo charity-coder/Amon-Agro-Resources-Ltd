@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-22T16:12:56.691Z",
+  "updatedAtMs": 1792685576691,
+  "reason": "windowFocus",
+  "extension": {
+    "name": "editor-state-mcp",
+    "version": "0.1.4"
+  },
+  "window": {
+    "id": "871192ed",
+    "pid": 17488,
+    "focused": false,
+    "vscodeVersion": "1.143.0",
+    "heartbeatPath": "C:\\Users\\facan\\.editor-state-mcp\\heartbeat\\17488.json"
+  },
+  "workspace": {
+    "name": "Amon Agro Resources Ltd",
+    "workspaceFile": null,
+    "folders": [
+      "c:\\Users\\facan\\Desktop\\Amon Agro Resources Ltd"
+    ]
+  },
+  "activeEditor": {
+    "path": "c:\\Users\\facan\\Desktop\\Amon Agro Resources Ltd\\index.html",
+    "relativePath": "index.html",
+    "scheme": "file",
+    "languageId": "html",
+    "isUntitled": false,
+    "isDirty": false,
+    "lineCount": 1937,
+    "eol": "lf",
+    "viewColumn": 1,
+    "source": "activeTextEditor"
+  },
+  "selection": {
+    "isEmpty": true,
+    "startLine": 1871,
+    "startColumn": 38,
+    "endLine": 1871,
+    "endColumn": 38,
+    "lineCount": 1,
+    "reversed": true,
+    "kind": "mouse",
+    "wholeLineGesture": false,
+    "text": "",
+    "textTruncated": false,
+    "textOmittedReason": null,
+    "zeroBased": {
+      "startLine": 1870,
+      "startChar": 37,
+      "endLine": 1870,
+      "endChar": 37
+    }
+  },
+  "additionalSelections": [],
+  "cursor": {
+    "line": 1871,
+    "column": 38
+  },
+  "lastDeliberateSelection": {
+    "path": "c:\\Users\\facan\\Desktop\\Amon Agro Resources Ltd\\index.html",
+    "relativePath": "index.html",
+    "capturedAtMs": 1792684460638,
+    "startLine": 1875,
+    "startColumn": 15,
+    "endLine": 1875,
+    "endColumn": 25,
+    "lineCount": 1,
+    "text": "ONION.jpeg"
+  },
+  "openTabs": [
+    {
+      "relativePath": "index.html",
+      "path": "c:\\Users\\facan\\Desktop\\Amon Agro Resources Ltd\\index.html",
+      "scheme": "file",
+      "kind": "text",
+      "isActive": true,
+      "isDirty": false,
+      "isPinned": false,
+      "groupId": 1
+    },
+    {
+      "relativePath": "POTATOS.jpeg",
+      "path": "c:\\Users\\facan\\Desktop\\Amon Agro Resources Ltd\\POTATOS.jpeg",
+      "scheme": "file",
+      "kind": "custom",
+      "isActive": false,
+      "isDirty": false,
+      "isPinned": false,
+      "groupId": 1
+    }
+  ],
+  "recentFiles": [
+    {
+      "path": "c:\\Users\\facan\\Desktop\\Amon Agro Resources Ltd\\index.html",
+      "relativePath": "index.html",
+      "lastActiveAtMs": 1792683769436
+    },
+    {
+      "path": "c:\\Users\\facan\\Desktop\\Amon Agro Resources Ltd\\Amon Agro Resources Ltd.html",
+      "relativePath": "Amon Agro Resources Ltd.html",
+      "lastActiveAtMs": 1792683703873
+    }
+  ],
+  "truncation": {
+    "openTabsCapped": false,
+    "recentFilesCapped": false
+  }
+}
